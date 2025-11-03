@@ -1,0 +1,11 @@
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.exe.config
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.exe
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\Hesap makinesi.pdb
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap_makinesi.Form1.resources
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap_makinesi.Properties.Resources.resources
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csproj.GenerateResource.cache
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.exe
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.pdb
+C:\Users\emrez\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\Hesap makinesi.exe.config
